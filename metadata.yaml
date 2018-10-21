@@ -1,5 +1,5 @@
 _repo: Dry-Farming-A-System-of-Agriculture-for-Countries-under-a-Low-Rainfall_4924
-_version: 0.2.0
+_version: 0.2.1
 covers:
 - cover_type: generated
   image_path: cover.png
@@ -27,5 +27,6 @@ rights_url: http://creativecommons.org/about/pdm
 subjects:
 - !lcc 'SB'
 - !lcsh 'Dry farming'
+- GITenberg
 title: 'Dry-Farming : A System of Agriculture for Countries under a Low Rainfall'
 url: http://www.gutenberg.org/ebooks/4924
